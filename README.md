@@ -1,2 +1,2 @@
 # DNN_Playground
-This is the place where I play with DNNs 
+This includes various kinds of experiments done using DNNs. Please feel free to provide feedback.
